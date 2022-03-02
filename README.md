@@ -1,2 +1,2 @@
 # Java-Data-Structures
-WIP, changing Python DaTta Structures over to Java
+WIP, changing Python Data Structures over to Java
